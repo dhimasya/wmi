@@ -1,0 +1,21 @@
+v 1.2.8.1
+
+1. add updater
+2. add police number in transaction result
+
+v 1.1.8.0
+
+1. escape character
+2. fix datetime print
+3. dropdown width on timbang open selection
+4. sync issue fix
+5. overload result check
+
+v 1.0.5.0
+
+1. warning on delete unfinished scale result
+2. update date and number format tanggal and angka
+
+v 1.0.0.0
+
+1. initial release
